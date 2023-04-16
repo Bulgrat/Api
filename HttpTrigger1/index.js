@@ -10,10 +10,10 @@ module.exports = async function (context, req) {
             frase = 'Mae muki ni ne. – Mantenha-se positivo.';
             break;
         case '3':
-            frase = 'Esta é a frase 3.';
+            frase = 'Nada Detem a macha inexorável do tempo';
             break;
         case '4':
-            frase = 'Esta é a frase 4.';
+            frase = 'Imagine uma nova história para sua vida e acredite nela.';
             break;
         case '5':
             frase = 'Esta é a frase 5.';
