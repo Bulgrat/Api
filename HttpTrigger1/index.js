@@ -7,7 +7,7 @@ module.exports = async function (context, req) {
             frase = 'A vida é como uma montanha-russa, com altos e baixos';
             break;
         case '2':
-            frase = 'Esta é a frase 2.';
+            frase = 'Mae muki ni ne. – Mantenha-se positivo.';
             break;
         case '3':
             frase = 'Esta é a frase 3.';
