@@ -23,6 +23,7 @@ module.exports = async function (context, req) {
             default:
                 frase = 'Némero invalido';
         }
+
     } else {
         frase = 'Digite um número de 1 a 5 acrescentando ?num=número na URL';
     }
