@@ -21,7 +21,7 @@ module.exports = async function (context, req) {
                 frase = 'Esta é a frase 5.';
                 break;
             default:
-                frase = 'Némero invalido';
+                frase = 'Número inválido';
         }
 
     } else {
